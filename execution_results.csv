@@ -1,0 +1,2 @@
+TC ID,Application Feature Tested,Scenario,Input,Expected Output,Actual Output,Status,Execution Date Time,Evidence
+Pos_0001,Image resizing,Verify that a valid PNG upload is displayed in the Resize Image preview area.,fixtures/sample-preview.png,The uploaded PNG should appear in the Preview section with the original image dimensions.,The uploaded PNG was rendered in the Preview canvas with 320x180 dimensions.,Pass,2026-05-05T02:58:58.471559+00:00,test-results/resize-preview.png
