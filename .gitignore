@@ -1,7 +1,3 @@
-node_modules/
-playwright-report/
-blob-report/
-test-results/*.zip
-test-results/*.webm
-test-results/*.mp4
-test-results/*trace*
+__pycache__/
+.DS_Store
+*.pyc
